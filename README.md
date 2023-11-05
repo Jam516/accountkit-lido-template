@@ -1,4 +1,4 @@
-This is a demo showing how to build a Lido frontend with Accountkit.
+This is a template for a crypto PWA that uses Accountkit.
 
 ## Getting Started
 
